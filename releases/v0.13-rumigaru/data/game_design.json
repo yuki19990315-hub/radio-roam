@@ -1,0 +1,114 @@
+{
+  "schema_version": 7,
+  "status": "v08_ecology_pre_device",
+  "versions": {
+    "save_schema": 6,
+    "gene_schema": 2,
+    "asset_catalog": 5,
+    "public_catalog": 4,
+    "identity_hash": 2
+  },
+  "types": ["beast", "bird", "dragon", "fish", "humanoid", "plant"],
+  "subtypes": [
+    ["dog", "cat", "rabbit", "armored_beast"],
+    ["chick", "hawk", "owl", "crow"],
+    ["baby_dragon", "sea_dragon", "wyvern", "armored_dragon"],
+    ["puffer", "angler", "shark", "leviathan"],
+    ["golem", "imp", "robot", "knight"],
+    ["mandrake", "mushroom", "cactus", "walking_old_tree"]
+  ],
+  "starters": [
+    {"name": "Koro", "type": "beast", "role": "speed"},
+    {"name": "Hiryu", "type": "dragon", "role": "power"},
+    {"name": "Mebu", "type": "plant", "role": "support"}
+  ],
+  "evolution": {
+    "stages": ["juvenile", "middle", "adult"],
+    "evolve_at_level": 20,
+    "after_evolution": {"level": 1, "xp": 0, "hp": "full", "mastery": "+1"},
+    "move_effective_level": "level + evolution_stage * 5",
+    "visual_rule": "all eight selected part layers switch to pre-rendered stage-specific art",
+    "routes": ["battle", "exploration", "bond", "anomaly"],
+    "route_source": "persisted activity counters; highest counter with deterministic personality tie-break",
+    "route_effect": "stage-specific semantic markings plus one stat specialty"
+  },
+  "parts": ["head", "body", "arms", "legs", "horns", "tail", "eyes", "wings"],
+  "parts_per_slot": 16,
+  "part_mapping": "upper two bits select one of four silhouette families; lower two bits select one of four drawn semantic markings",
+  "optional_parts": {"slots": ["horns", "tail", "wings"], "presence_source": "optional_mask", "probability": "50% each"},
+  "rendering": {
+    "canvas": "64x64",
+    "runtime_scaling_of_parts": false,
+    "layer_order": ["wings", "tail", "legs", "body", "arms", "head", "eyes", "horns"],
+    "semantic_colours": ["transparent", "outline", "shadow", "main", "highlight", "accent", "neutral", "eye"],
+    "palette_count": 16
+  },
+  "gene": {
+    "schema_version": 2,
+    "hash": "sha256",
+    "identity_input": "length-prefixed SSID and BSSID under RR2 domain",
+    "bit_order": "msb_first",
+    "compatibility_rule": "V1 decoder remains available; incompatible changes require a new decoder and stored gene_version",
+    "fields": [
+      {"name": "type_roll", "offset": 0, "bits": 8},
+      {"name": "head", "offset": 8, "bits": 4},
+      {"name": "body", "offset": 12, "bits": 4},
+      {"name": "arms", "offset": 16, "bits": 4},
+      {"name": "legs", "offset": 20, "bits": 4},
+      {"name": "horns", "offset": 24, "bits": 4},
+      {"name": "tail", "offset": 28, "bits": 4},
+      {"name": "eyes", "offset": 32, "bits": 4},
+      {"name": "wings", "offset": 36, "bits": 4},
+      {"name": "palette_code", "offset": 40, "bits": 4},
+      {"name": "optional_mask", "offset": 44, "bits": 3},
+      {"name": "shape_trait", "offset": 47, "bits": 1},
+      {"name": "personality", "offset": 48, "bits": 4},
+      {"name": "temperament", "offset": 52, "bits": 4},
+      {"name": "rare_trait", "offset": 56, "bits": 8},
+      {"name": "combat_trait", "offset": 64, "bits": 4},
+      {"name": "lineage_tendency", "offset": 68, "bits": 4},
+      {"name": "reserved_for_future", "offset": 72, "bits": 184}
+    ],
+    "type_rule": "floor(type_roll * 6 / 256); each type receives 42 or 43 of 256 values"
+  },
+  "wifi_world": {
+    "identity_layer": "one stable monster for every deduplicated SSID+BSSID pair",
+    "environment_layer": ["AP count", "mean RSSI", "strong AP count", "channel diversity", "set change", "same-SSID clusters", "hidden count"],
+    "selection": "show up to three strongest eligible signals",
+    "cooldown": "same signal becomes eligible again after five persisted scan cycles",
+    "secondary_reward_distribution": {"none": "50%", "experience": "about 20%", "item": "about 20%", "dungeon": "about 10%"},
+    "privacy": "raw SSID and BSSID are not saved or exposed to the phone UI",
+    "habitat": "each privacy-safe AP genome deterministically owns a biome, dungeon theme, layout, reward and difficulty",
+    "world_events": ["calm", "bloom", "cache", "surge", "anomaly"],
+    "world_event_source": "volatile scan-wide radio features plus scan serial"
+  },
+  "biomes": ["grassland", "jungle", "beach", "underwater", "desert", "cave", "magma", "city", "signal_storm"],
+  "dungeon": {
+    "floors": 3,
+    "theme_values": 16,
+    "layout_values": 16,
+    "difficulty_values": 3,
+    "reward_tables": 4,
+    "pre_entry_preview": true
+  },
+  "moves": {
+    "sources": ["type", "head", "arms", "tail_or_body"],
+    "base_unlock_levels": [1, 5, 10, 15],
+    "type_advantage": "explicit balanced six-type cycle in part_catalog.py"
+  },
+  "fusion": {
+    "minimum_level": 20,
+    "preview_matches_committed_child": true,
+    "inherits": ["type", "parts", "optional presence", "palette", "personality", "temperament", "rare trait", "combat trait"],
+    "single_part_mutation_probability": "about 5%",
+    "locked_inheritance": "player may force one of parent A's eight parts; lock wins over mutation"
+  },
+  "part_dex": {
+    "entries": 2304,
+    "storage": "2304-bit lowercase hexadecimal bitset",
+    "records": "type, evolution stage, part slot and part value"
+  },
+  "balance_status": "provisional_until_device_playtest",
+  "capture_model": "cumulative_scan_to_100",
+  "hatch_active_seconds": 180
+}

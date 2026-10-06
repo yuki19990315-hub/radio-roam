@@ -1,0 +1,4610 @@
+[
+  {
+    "png": "art/parts/獣/頭/獣頭1_幼体.png",
+    "runtime": "assets/modular_v1/beast/head_01_0.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/体/獣体1_幼体.png",
+    "runtime": "assets/modular_v1/beast/body_01_0.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕1_幼体.png",
+    "runtime": "assets/modular_v1/beast/arms_01_0.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/足/獣足1_幼体.png",
+    "runtime": "assets/modular_v1/beast/legs_01_0.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/角/獣角1_幼体.png",
+    "runtime": "assets/modular_v1/beast/horns_01_0.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/beast/tail_01_0.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/目/獣目1_幼体.png",
+    "runtime": "assets/modular_v1/beast/eyes_01_0.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽1_幼体.png",
+    "runtime": "assets/modular_v1/beast/wings_01_0.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭1_中間体.png",
+    "runtime": "assets/modular_v1/beast/head_01_1.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/体/獣体1_中間体.png",
+    "runtime": "assets/modular_v1/beast/body_01_1.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕1_中間体.png",
+    "runtime": "assets/modular_v1/beast/arms_01_1.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/足/獣足1_中間体.png",
+    "runtime": "assets/modular_v1/beast/legs_01_1.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/角/獣角1_中間体.png",
+    "runtime": "assets/modular_v1/beast/horns_01_1.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/beast/tail_01_1.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/目/獣目1_中間体.png",
+    "runtime": "assets/modular_v1/beast/eyes_01_1.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽1_中間体.png",
+    "runtime": "assets/modular_v1/beast/wings_01_1.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭1_成体.png",
+    "runtime": "assets/modular_v1/beast/head_01_2.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/体/獣体1_成体.png",
+    "runtime": "assets/modular_v1/beast/body_01_2.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕1_成体.png",
+    "runtime": "assets/modular_v1/beast/arms_01_2.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/足/獣足1_成体.png",
+    "runtime": "assets/modular_v1/beast/legs_01_2.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/角/獣角1_成体.png",
+    "runtime": "assets/modular_v1/beast/horns_01_2.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/beast/tail_01_2.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/目/獣目1_成体.png",
+    "runtime": "assets/modular_v1/beast/eyes_01_2.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽1_成体.png",
+    "runtime": "assets/modular_v1/beast/wings_01_2.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭2_幼体.png",
+    "runtime": "assets/modular_v1/beast/head_02_0.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/体/獣体2_幼体.png",
+    "runtime": "assets/modular_v1/beast/body_02_0.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕2_幼体.png",
+    "runtime": "assets/modular_v1/beast/arms_02_0.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/足/獣足2_幼体.png",
+    "runtime": "assets/modular_v1/beast/legs_02_0.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/角/獣角2_幼体.png",
+    "runtime": "assets/modular_v1/beast/horns_02_0.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/beast/tail_02_0.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/目/獣目2_幼体.png",
+    "runtime": "assets/modular_v1/beast/eyes_02_0.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽2_幼体.png",
+    "runtime": "assets/modular_v1/beast/wings_02_0.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭2_中間体.png",
+    "runtime": "assets/modular_v1/beast/head_02_1.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/体/獣体2_中間体.png",
+    "runtime": "assets/modular_v1/beast/body_02_1.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕2_中間体.png",
+    "runtime": "assets/modular_v1/beast/arms_02_1.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/足/獣足2_中間体.png",
+    "runtime": "assets/modular_v1/beast/legs_02_1.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/角/獣角2_中間体.png",
+    "runtime": "assets/modular_v1/beast/horns_02_1.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/beast/tail_02_1.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/目/獣目2_中間体.png",
+    "runtime": "assets/modular_v1/beast/eyes_02_1.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽2_中間体.png",
+    "runtime": "assets/modular_v1/beast/wings_02_1.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭2_成体.png",
+    "runtime": "assets/modular_v1/beast/head_02_2.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/体/獣体2_成体.png",
+    "runtime": "assets/modular_v1/beast/body_02_2.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕2_成体.png",
+    "runtime": "assets/modular_v1/beast/arms_02_2.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/足/獣足2_成体.png",
+    "runtime": "assets/modular_v1/beast/legs_02_2.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/角/獣角2_成体.png",
+    "runtime": "assets/modular_v1/beast/horns_02_2.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/beast/tail_02_2.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/目/獣目2_成体.png",
+    "runtime": "assets/modular_v1/beast/eyes_02_2.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽2_成体.png",
+    "runtime": "assets/modular_v1/beast/wings_02_2.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭3_幼体.png",
+    "runtime": "assets/modular_v1/beast/head_03_0.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/体/獣体3_幼体.png",
+    "runtime": "assets/modular_v1/beast/body_03_0.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕3_幼体.png",
+    "runtime": "assets/modular_v1/beast/arms_03_0.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/足/獣足3_幼体.png",
+    "runtime": "assets/modular_v1/beast/legs_03_0.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/角/獣角3_幼体.png",
+    "runtime": "assets/modular_v1/beast/horns_03_0.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/beast/tail_03_0.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/目/獣目3_幼体.png",
+    "runtime": "assets/modular_v1/beast/eyes_03_0.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽3_幼体.png",
+    "runtime": "assets/modular_v1/beast/wings_03_0.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭3_中間体.png",
+    "runtime": "assets/modular_v1/beast/head_03_1.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/体/獣体3_中間体.png",
+    "runtime": "assets/modular_v1/beast/body_03_1.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕3_中間体.png",
+    "runtime": "assets/modular_v1/beast/arms_03_1.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/足/獣足3_中間体.png",
+    "runtime": "assets/modular_v1/beast/legs_03_1.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/角/獣角3_中間体.png",
+    "runtime": "assets/modular_v1/beast/horns_03_1.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/beast/tail_03_1.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/目/獣目3_中間体.png",
+    "runtime": "assets/modular_v1/beast/eyes_03_1.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽3_中間体.png",
+    "runtime": "assets/modular_v1/beast/wings_03_1.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭3_成体.png",
+    "runtime": "assets/modular_v1/beast/head_03_2.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/体/獣体3_成体.png",
+    "runtime": "assets/modular_v1/beast/body_03_2.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕3_成体.png",
+    "runtime": "assets/modular_v1/beast/arms_03_2.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/足/獣足3_成体.png",
+    "runtime": "assets/modular_v1/beast/legs_03_2.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/角/獣角3_成体.png",
+    "runtime": "assets/modular_v1/beast/horns_03_2.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/beast/tail_03_2.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/目/獣目3_成体.png",
+    "runtime": "assets/modular_v1/beast/eyes_03_2.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽3_成体.png",
+    "runtime": "assets/modular_v1/beast/wings_03_2.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭4_幼体.png",
+    "runtime": "assets/modular_v1/beast/head_04_0.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/体/獣体4_幼体.png",
+    "runtime": "assets/modular_v1/beast/body_04_0.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕4_幼体.png",
+    "runtime": "assets/modular_v1/beast/arms_04_0.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/足/獣足4_幼体.png",
+    "runtime": "assets/modular_v1/beast/legs_04_0.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/角/獣角4_幼体.png",
+    "runtime": "assets/modular_v1/beast/horns_04_0.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/beast/tail_04_0.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/目/獣目4_幼体.png",
+    "runtime": "assets/modular_v1/beast/eyes_04_0.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽4_幼体.png",
+    "runtime": "assets/modular_v1/beast/wings_04_0.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭4_中間体.png",
+    "runtime": "assets/modular_v1/beast/head_04_1.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/体/獣体4_中間体.png",
+    "runtime": "assets/modular_v1/beast/body_04_1.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕4_中間体.png",
+    "runtime": "assets/modular_v1/beast/arms_04_1.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/足/獣足4_中間体.png",
+    "runtime": "assets/modular_v1/beast/legs_04_1.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/角/獣角4_中間体.png",
+    "runtime": "assets/modular_v1/beast/horns_04_1.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/beast/tail_04_1.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/目/獣目4_中間体.png",
+    "runtime": "assets/modular_v1/beast/eyes_04_1.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽4_中間体.png",
+    "runtime": "assets/modular_v1/beast/wings_04_1.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/獣/頭/獣頭4_成体.png",
+    "runtime": "assets/modular_v1/beast/head_04_2.part",
+    "type": 0,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/体/獣体4_成体.png",
+    "runtime": "assets/modular_v1/beast/body_04_2.part",
+    "type": 0,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/腕/獣腕4_成体.png",
+    "runtime": "assets/modular_v1/beast/arms_04_2.part",
+    "type": 0,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/足/獣足4_成体.png",
+    "runtime": "assets/modular_v1/beast/legs_04_2.part",
+    "type": 0,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/角/獣角4_成体.png",
+    "runtime": "assets/modular_v1/beast/horns_04_2.part",
+    "type": 0,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/しっぽ/獣しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/beast/tail_04_2.part",
+    "type": 0,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/目/獣目4_成体.png",
+    "runtime": "assets/modular_v1/beast/eyes_04_2.part",
+    "type": 0,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/獣/羽/獣羽4_成体.png",
+    "runtime": "assets/modular_v1/beast/wings_04_2.part",
+    "type": 0,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭1_幼体.png",
+    "runtime": "assets/modular_v1/bird/head_01_0.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体1_幼体.png",
+    "runtime": "assets/modular_v1/bird/body_01_0.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕1_幼体.png",
+    "runtime": "assets/modular_v1/bird/arms_01_0.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足1_幼体.png",
+    "runtime": "assets/modular_v1/bird/legs_01_0.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角1_幼体.png",
+    "runtime": "assets/modular_v1/bird/horns_01_0.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/bird/tail_01_0.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目1_幼体.png",
+    "runtime": "assets/modular_v1/bird/eyes_01_0.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽1_幼体.png",
+    "runtime": "assets/modular_v1/bird/wings_01_0.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭1_中間体.png",
+    "runtime": "assets/modular_v1/bird/head_01_1.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体1_中間体.png",
+    "runtime": "assets/modular_v1/bird/body_01_1.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕1_中間体.png",
+    "runtime": "assets/modular_v1/bird/arms_01_1.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足1_中間体.png",
+    "runtime": "assets/modular_v1/bird/legs_01_1.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角1_中間体.png",
+    "runtime": "assets/modular_v1/bird/horns_01_1.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/bird/tail_01_1.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目1_中間体.png",
+    "runtime": "assets/modular_v1/bird/eyes_01_1.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽1_中間体.png",
+    "runtime": "assets/modular_v1/bird/wings_01_1.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭1_成体.png",
+    "runtime": "assets/modular_v1/bird/head_01_2.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体1_成体.png",
+    "runtime": "assets/modular_v1/bird/body_01_2.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕1_成体.png",
+    "runtime": "assets/modular_v1/bird/arms_01_2.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足1_成体.png",
+    "runtime": "assets/modular_v1/bird/legs_01_2.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角1_成体.png",
+    "runtime": "assets/modular_v1/bird/horns_01_2.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/bird/tail_01_2.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目1_成体.png",
+    "runtime": "assets/modular_v1/bird/eyes_01_2.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽1_成体.png",
+    "runtime": "assets/modular_v1/bird/wings_01_2.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭2_幼体.png",
+    "runtime": "assets/modular_v1/bird/head_02_0.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体2_幼体.png",
+    "runtime": "assets/modular_v1/bird/body_02_0.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕2_幼体.png",
+    "runtime": "assets/modular_v1/bird/arms_02_0.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足2_幼体.png",
+    "runtime": "assets/modular_v1/bird/legs_02_0.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角2_幼体.png",
+    "runtime": "assets/modular_v1/bird/horns_02_0.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/bird/tail_02_0.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目2_幼体.png",
+    "runtime": "assets/modular_v1/bird/eyes_02_0.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽2_幼体.png",
+    "runtime": "assets/modular_v1/bird/wings_02_0.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭2_中間体.png",
+    "runtime": "assets/modular_v1/bird/head_02_1.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体2_中間体.png",
+    "runtime": "assets/modular_v1/bird/body_02_1.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕2_中間体.png",
+    "runtime": "assets/modular_v1/bird/arms_02_1.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足2_中間体.png",
+    "runtime": "assets/modular_v1/bird/legs_02_1.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角2_中間体.png",
+    "runtime": "assets/modular_v1/bird/horns_02_1.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/bird/tail_02_1.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目2_中間体.png",
+    "runtime": "assets/modular_v1/bird/eyes_02_1.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽2_中間体.png",
+    "runtime": "assets/modular_v1/bird/wings_02_1.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭2_成体.png",
+    "runtime": "assets/modular_v1/bird/head_02_2.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体2_成体.png",
+    "runtime": "assets/modular_v1/bird/body_02_2.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕2_成体.png",
+    "runtime": "assets/modular_v1/bird/arms_02_2.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足2_成体.png",
+    "runtime": "assets/modular_v1/bird/legs_02_2.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角2_成体.png",
+    "runtime": "assets/modular_v1/bird/horns_02_2.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/bird/tail_02_2.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目2_成体.png",
+    "runtime": "assets/modular_v1/bird/eyes_02_2.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽2_成体.png",
+    "runtime": "assets/modular_v1/bird/wings_02_2.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭3_幼体.png",
+    "runtime": "assets/modular_v1/bird/head_03_0.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体3_幼体.png",
+    "runtime": "assets/modular_v1/bird/body_03_0.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕3_幼体.png",
+    "runtime": "assets/modular_v1/bird/arms_03_0.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足3_幼体.png",
+    "runtime": "assets/modular_v1/bird/legs_03_0.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角3_幼体.png",
+    "runtime": "assets/modular_v1/bird/horns_03_0.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/bird/tail_03_0.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目3_幼体.png",
+    "runtime": "assets/modular_v1/bird/eyes_03_0.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽3_幼体.png",
+    "runtime": "assets/modular_v1/bird/wings_03_0.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭3_中間体.png",
+    "runtime": "assets/modular_v1/bird/head_03_1.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体3_中間体.png",
+    "runtime": "assets/modular_v1/bird/body_03_1.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕3_中間体.png",
+    "runtime": "assets/modular_v1/bird/arms_03_1.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足3_中間体.png",
+    "runtime": "assets/modular_v1/bird/legs_03_1.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角3_中間体.png",
+    "runtime": "assets/modular_v1/bird/horns_03_1.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/bird/tail_03_1.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目3_中間体.png",
+    "runtime": "assets/modular_v1/bird/eyes_03_1.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽3_中間体.png",
+    "runtime": "assets/modular_v1/bird/wings_03_1.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭3_成体.png",
+    "runtime": "assets/modular_v1/bird/head_03_2.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体3_成体.png",
+    "runtime": "assets/modular_v1/bird/body_03_2.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕3_成体.png",
+    "runtime": "assets/modular_v1/bird/arms_03_2.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足3_成体.png",
+    "runtime": "assets/modular_v1/bird/legs_03_2.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角3_成体.png",
+    "runtime": "assets/modular_v1/bird/horns_03_2.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/bird/tail_03_2.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目3_成体.png",
+    "runtime": "assets/modular_v1/bird/eyes_03_2.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽3_成体.png",
+    "runtime": "assets/modular_v1/bird/wings_03_2.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭4_幼体.png",
+    "runtime": "assets/modular_v1/bird/head_04_0.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体4_幼体.png",
+    "runtime": "assets/modular_v1/bird/body_04_0.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕4_幼体.png",
+    "runtime": "assets/modular_v1/bird/arms_04_0.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足4_幼体.png",
+    "runtime": "assets/modular_v1/bird/legs_04_0.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角4_幼体.png",
+    "runtime": "assets/modular_v1/bird/horns_04_0.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/bird/tail_04_0.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目4_幼体.png",
+    "runtime": "assets/modular_v1/bird/eyes_04_0.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽4_幼体.png",
+    "runtime": "assets/modular_v1/bird/wings_04_0.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭4_中間体.png",
+    "runtime": "assets/modular_v1/bird/head_04_1.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体4_中間体.png",
+    "runtime": "assets/modular_v1/bird/body_04_1.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕4_中間体.png",
+    "runtime": "assets/modular_v1/bird/arms_04_1.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足4_中間体.png",
+    "runtime": "assets/modular_v1/bird/legs_04_1.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角4_中間体.png",
+    "runtime": "assets/modular_v1/bird/horns_04_1.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/bird/tail_04_1.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目4_中間体.png",
+    "runtime": "assets/modular_v1/bird/eyes_04_1.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽4_中間体.png",
+    "runtime": "assets/modular_v1/bird/wings_04_1.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/鳥/頭/鳥頭4_成体.png",
+    "runtime": "assets/modular_v1/bird/head_04_2.part",
+    "type": 1,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/体/鳥体4_成体.png",
+    "runtime": "assets/modular_v1/bird/body_04_2.part",
+    "type": 1,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/腕/鳥腕4_成体.png",
+    "runtime": "assets/modular_v1/bird/arms_04_2.part",
+    "type": 1,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/足/鳥足4_成体.png",
+    "runtime": "assets/modular_v1/bird/legs_04_2.part",
+    "type": 1,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/角/鳥角4_成体.png",
+    "runtime": "assets/modular_v1/bird/horns_04_2.part",
+    "type": 1,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/しっぽ/鳥しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/bird/tail_04_2.part",
+    "type": 1,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/目/鳥目4_成体.png",
+    "runtime": "assets/modular_v1/bird/eyes_04_2.part",
+    "type": 1,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/鳥/羽/鳥羽4_成体.png",
+    "runtime": "assets/modular_v1/bird/wings_04_2.part",
+    "type": 1,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/head_01_0.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/体/竜体1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/body_01_0.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/arms_01_0.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/足/竜足1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/legs_01_0.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/角/竜角1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/horns_01_0.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/tail_01_0.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/目/竜目1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_01_0.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽1_幼体.png",
+    "runtime": "assets/modular_v1/dragon/wings_01_0.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/head_01_1.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/体/竜体1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/body_01_1.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/arms_01_1.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/足/竜足1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/legs_01_1.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/角/竜角1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/horns_01_1.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/tail_01_1.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/目/竜目1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_01_1.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽1_中間体.png",
+    "runtime": "assets/modular_v1/dragon/wings_01_1.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭1_成体.png",
+    "runtime": "assets/modular_v1/dragon/head_01_2.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/体/竜体1_成体.png",
+    "runtime": "assets/modular_v1/dragon/body_01_2.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕1_成体.png",
+    "runtime": "assets/modular_v1/dragon/arms_01_2.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/足/竜足1_成体.png",
+    "runtime": "assets/modular_v1/dragon/legs_01_2.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/角/竜角1_成体.png",
+    "runtime": "assets/modular_v1/dragon/horns_01_2.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/dragon/tail_01_2.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/目/竜目1_成体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_01_2.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽1_成体.png",
+    "runtime": "assets/modular_v1/dragon/wings_01_2.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/head_02_0.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/体/竜体2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/body_02_0.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/arms_02_0.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/足/竜足2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/legs_02_0.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/角/竜角2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/horns_02_0.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/tail_02_0.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/目/竜目2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_02_0.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽2_幼体.png",
+    "runtime": "assets/modular_v1/dragon/wings_02_0.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/head_02_1.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/体/竜体2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/body_02_1.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/arms_02_1.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/足/竜足2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/legs_02_1.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/角/竜角2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/horns_02_1.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/tail_02_1.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/目/竜目2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_02_1.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽2_中間体.png",
+    "runtime": "assets/modular_v1/dragon/wings_02_1.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭2_成体.png",
+    "runtime": "assets/modular_v1/dragon/head_02_2.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/体/竜体2_成体.png",
+    "runtime": "assets/modular_v1/dragon/body_02_2.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕2_成体.png",
+    "runtime": "assets/modular_v1/dragon/arms_02_2.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/足/竜足2_成体.png",
+    "runtime": "assets/modular_v1/dragon/legs_02_2.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/角/竜角2_成体.png",
+    "runtime": "assets/modular_v1/dragon/horns_02_2.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/dragon/tail_02_2.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/目/竜目2_成体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_02_2.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽2_成体.png",
+    "runtime": "assets/modular_v1/dragon/wings_02_2.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/head_03_0.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/体/竜体3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/body_03_0.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/arms_03_0.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/足/竜足3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/legs_03_0.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/角/竜角3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/horns_03_0.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/tail_03_0.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/目/竜目3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_03_0.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽3_幼体.png",
+    "runtime": "assets/modular_v1/dragon/wings_03_0.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/head_03_1.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/体/竜体3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/body_03_1.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/arms_03_1.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/足/竜足3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/legs_03_1.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/角/竜角3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/horns_03_1.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/tail_03_1.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/目/竜目3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_03_1.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽3_中間体.png",
+    "runtime": "assets/modular_v1/dragon/wings_03_1.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭3_成体.png",
+    "runtime": "assets/modular_v1/dragon/head_03_2.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/体/竜体3_成体.png",
+    "runtime": "assets/modular_v1/dragon/body_03_2.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕3_成体.png",
+    "runtime": "assets/modular_v1/dragon/arms_03_2.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/足/竜足3_成体.png",
+    "runtime": "assets/modular_v1/dragon/legs_03_2.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/角/竜角3_成体.png",
+    "runtime": "assets/modular_v1/dragon/horns_03_2.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/dragon/tail_03_2.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/目/竜目3_成体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_03_2.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽3_成体.png",
+    "runtime": "assets/modular_v1/dragon/wings_03_2.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/head_04_0.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/体/竜体4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/body_04_0.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/arms_04_0.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/足/竜足4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/legs_04_0.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/角/竜角4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/horns_04_0.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/tail_04_0.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/目/竜目4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_04_0.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽4_幼体.png",
+    "runtime": "assets/modular_v1/dragon/wings_04_0.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/head_04_1.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/体/竜体4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/body_04_1.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/arms_04_1.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/足/竜足4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/legs_04_1.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/角/竜角4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/horns_04_1.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/tail_04_1.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/目/竜目4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_04_1.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽4_中間体.png",
+    "runtime": "assets/modular_v1/dragon/wings_04_1.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/竜/頭/竜頭4_成体.png",
+    "runtime": "assets/modular_v1/dragon/head_04_2.part",
+    "type": 2,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/体/竜体4_成体.png",
+    "runtime": "assets/modular_v1/dragon/body_04_2.part",
+    "type": 2,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/腕/竜腕4_成体.png",
+    "runtime": "assets/modular_v1/dragon/arms_04_2.part",
+    "type": 2,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/足/竜足4_成体.png",
+    "runtime": "assets/modular_v1/dragon/legs_04_2.part",
+    "type": 2,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/角/竜角4_成体.png",
+    "runtime": "assets/modular_v1/dragon/horns_04_2.part",
+    "type": 2,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/しっぽ/竜しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/dragon/tail_04_2.part",
+    "type": 2,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/目/竜目4_成体.png",
+    "runtime": "assets/modular_v1/dragon/eyes_04_2.part",
+    "type": 2,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/竜/羽/竜羽4_成体.png",
+    "runtime": "assets/modular_v1/dragon/wings_04_2.part",
+    "type": 2,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭1_幼体.png",
+    "runtime": "assets/modular_v1/fish/head_01_0.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/体/魚体1_幼体.png",
+    "runtime": "assets/modular_v1/fish/body_01_0.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕1_幼体.png",
+    "runtime": "assets/modular_v1/fish/arms_01_0.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/足/魚足1_幼体.png",
+    "runtime": "assets/modular_v1/fish/legs_01_0.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/角/魚角1_幼体.png",
+    "runtime": "assets/modular_v1/fish/horns_01_0.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/fish/tail_01_0.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/目/魚目1_幼体.png",
+    "runtime": "assets/modular_v1/fish/eyes_01_0.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽1_幼体.png",
+    "runtime": "assets/modular_v1/fish/wings_01_0.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭1_中間体.png",
+    "runtime": "assets/modular_v1/fish/head_01_1.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/体/魚体1_中間体.png",
+    "runtime": "assets/modular_v1/fish/body_01_1.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕1_中間体.png",
+    "runtime": "assets/modular_v1/fish/arms_01_1.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/足/魚足1_中間体.png",
+    "runtime": "assets/modular_v1/fish/legs_01_1.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/角/魚角1_中間体.png",
+    "runtime": "assets/modular_v1/fish/horns_01_1.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/fish/tail_01_1.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/目/魚目1_中間体.png",
+    "runtime": "assets/modular_v1/fish/eyes_01_1.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽1_中間体.png",
+    "runtime": "assets/modular_v1/fish/wings_01_1.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭1_成体.png",
+    "runtime": "assets/modular_v1/fish/head_01_2.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/体/魚体1_成体.png",
+    "runtime": "assets/modular_v1/fish/body_01_2.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕1_成体.png",
+    "runtime": "assets/modular_v1/fish/arms_01_2.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/足/魚足1_成体.png",
+    "runtime": "assets/modular_v1/fish/legs_01_2.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/角/魚角1_成体.png",
+    "runtime": "assets/modular_v1/fish/horns_01_2.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/fish/tail_01_2.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/目/魚目1_成体.png",
+    "runtime": "assets/modular_v1/fish/eyes_01_2.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽1_成体.png",
+    "runtime": "assets/modular_v1/fish/wings_01_2.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭2_幼体.png",
+    "runtime": "assets/modular_v1/fish/head_02_0.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/体/魚体2_幼体.png",
+    "runtime": "assets/modular_v1/fish/body_02_0.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕2_幼体.png",
+    "runtime": "assets/modular_v1/fish/arms_02_0.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/足/魚足2_幼体.png",
+    "runtime": "assets/modular_v1/fish/legs_02_0.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/角/魚角2_幼体.png",
+    "runtime": "assets/modular_v1/fish/horns_02_0.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/fish/tail_02_0.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/目/魚目2_幼体.png",
+    "runtime": "assets/modular_v1/fish/eyes_02_0.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽2_幼体.png",
+    "runtime": "assets/modular_v1/fish/wings_02_0.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭2_中間体.png",
+    "runtime": "assets/modular_v1/fish/head_02_1.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/体/魚体2_中間体.png",
+    "runtime": "assets/modular_v1/fish/body_02_1.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕2_中間体.png",
+    "runtime": "assets/modular_v1/fish/arms_02_1.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/足/魚足2_中間体.png",
+    "runtime": "assets/modular_v1/fish/legs_02_1.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/角/魚角2_中間体.png",
+    "runtime": "assets/modular_v1/fish/horns_02_1.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/fish/tail_02_1.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/目/魚目2_中間体.png",
+    "runtime": "assets/modular_v1/fish/eyes_02_1.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽2_中間体.png",
+    "runtime": "assets/modular_v1/fish/wings_02_1.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭2_成体.png",
+    "runtime": "assets/modular_v1/fish/head_02_2.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/体/魚体2_成体.png",
+    "runtime": "assets/modular_v1/fish/body_02_2.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕2_成体.png",
+    "runtime": "assets/modular_v1/fish/arms_02_2.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/足/魚足2_成体.png",
+    "runtime": "assets/modular_v1/fish/legs_02_2.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/角/魚角2_成体.png",
+    "runtime": "assets/modular_v1/fish/horns_02_2.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/fish/tail_02_2.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/目/魚目2_成体.png",
+    "runtime": "assets/modular_v1/fish/eyes_02_2.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽2_成体.png",
+    "runtime": "assets/modular_v1/fish/wings_02_2.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭3_幼体.png",
+    "runtime": "assets/modular_v1/fish/head_03_0.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/体/魚体3_幼体.png",
+    "runtime": "assets/modular_v1/fish/body_03_0.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕3_幼体.png",
+    "runtime": "assets/modular_v1/fish/arms_03_0.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/足/魚足3_幼体.png",
+    "runtime": "assets/modular_v1/fish/legs_03_0.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/角/魚角3_幼体.png",
+    "runtime": "assets/modular_v1/fish/horns_03_0.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/fish/tail_03_0.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/目/魚目3_幼体.png",
+    "runtime": "assets/modular_v1/fish/eyes_03_0.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽3_幼体.png",
+    "runtime": "assets/modular_v1/fish/wings_03_0.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭3_中間体.png",
+    "runtime": "assets/modular_v1/fish/head_03_1.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/体/魚体3_中間体.png",
+    "runtime": "assets/modular_v1/fish/body_03_1.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕3_中間体.png",
+    "runtime": "assets/modular_v1/fish/arms_03_1.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/足/魚足3_中間体.png",
+    "runtime": "assets/modular_v1/fish/legs_03_1.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/角/魚角3_中間体.png",
+    "runtime": "assets/modular_v1/fish/horns_03_1.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/fish/tail_03_1.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/目/魚目3_中間体.png",
+    "runtime": "assets/modular_v1/fish/eyes_03_1.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽3_中間体.png",
+    "runtime": "assets/modular_v1/fish/wings_03_1.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭3_成体.png",
+    "runtime": "assets/modular_v1/fish/head_03_2.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/体/魚体3_成体.png",
+    "runtime": "assets/modular_v1/fish/body_03_2.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕3_成体.png",
+    "runtime": "assets/modular_v1/fish/arms_03_2.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/足/魚足3_成体.png",
+    "runtime": "assets/modular_v1/fish/legs_03_2.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/角/魚角3_成体.png",
+    "runtime": "assets/modular_v1/fish/horns_03_2.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/fish/tail_03_2.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/目/魚目3_成体.png",
+    "runtime": "assets/modular_v1/fish/eyes_03_2.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽3_成体.png",
+    "runtime": "assets/modular_v1/fish/wings_03_2.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭4_幼体.png",
+    "runtime": "assets/modular_v1/fish/head_04_0.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/体/魚体4_幼体.png",
+    "runtime": "assets/modular_v1/fish/body_04_0.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕4_幼体.png",
+    "runtime": "assets/modular_v1/fish/arms_04_0.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/足/魚足4_幼体.png",
+    "runtime": "assets/modular_v1/fish/legs_04_0.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/角/魚角4_幼体.png",
+    "runtime": "assets/modular_v1/fish/horns_04_0.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/fish/tail_04_0.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/目/魚目4_幼体.png",
+    "runtime": "assets/modular_v1/fish/eyes_04_0.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽4_幼体.png",
+    "runtime": "assets/modular_v1/fish/wings_04_0.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭4_中間体.png",
+    "runtime": "assets/modular_v1/fish/head_04_1.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/体/魚体4_中間体.png",
+    "runtime": "assets/modular_v1/fish/body_04_1.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕4_中間体.png",
+    "runtime": "assets/modular_v1/fish/arms_04_1.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/足/魚足4_中間体.png",
+    "runtime": "assets/modular_v1/fish/legs_04_1.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/角/魚角4_中間体.png",
+    "runtime": "assets/modular_v1/fish/horns_04_1.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/fish/tail_04_1.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/目/魚目4_中間体.png",
+    "runtime": "assets/modular_v1/fish/eyes_04_1.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽4_中間体.png",
+    "runtime": "assets/modular_v1/fish/wings_04_1.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/魚/頭/魚頭4_成体.png",
+    "runtime": "assets/modular_v1/fish/head_04_2.part",
+    "type": 3,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/体/魚体4_成体.png",
+    "runtime": "assets/modular_v1/fish/body_04_2.part",
+    "type": 3,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/腕/魚腕4_成体.png",
+    "runtime": "assets/modular_v1/fish/arms_04_2.part",
+    "type": 3,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/足/魚足4_成体.png",
+    "runtime": "assets/modular_v1/fish/legs_04_2.part",
+    "type": 3,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/角/魚角4_成体.png",
+    "runtime": "assets/modular_v1/fish/horns_04_2.part",
+    "type": 3,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/しっぽ/魚しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/fish/tail_04_2.part",
+    "type": 3,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/目/魚目4_成体.png",
+    "runtime": "assets/modular_v1/fish/eyes_04_2.part",
+    "type": 3,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/魚/羽/魚羽4_成体.png",
+    "runtime": "assets/modular_v1/fish/wings_04_2.part",
+    "type": 3,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/head_01_0.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/体/人型体1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/body_01_0.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_01_0.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/足/人型足1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_01_0.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/角/人型角1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_01_0.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_01_0.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/目/人型目1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_01_0.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽1_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_01_0.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/head_01_1.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/体/人型体1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/body_01_1.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_01_1.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/足/人型足1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_01_1.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/角/人型角1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_01_1.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_01_1.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/目/人型目1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_01_1.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽1_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_01_1.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/head_01_2.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/体/人型体1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/body_01_2.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_01_2.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/足/人型足1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_01_2.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/角/人型角1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_01_2.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_01_2.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/目/人型目1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_01_2.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽1_成体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_01_2.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/head_02_0.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/体/人型体2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/body_02_0.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_02_0.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/足/人型足2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_02_0.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/角/人型角2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_02_0.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_02_0.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/目/人型目2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_02_0.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽2_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_02_0.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/head_02_1.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/体/人型体2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/body_02_1.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_02_1.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/足/人型足2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_02_1.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/角/人型角2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_02_1.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_02_1.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/目/人型目2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_02_1.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽2_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_02_1.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/head_02_2.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/体/人型体2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/body_02_2.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_02_2.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/足/人型足2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_02_2.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/角/人型角2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_02_2.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_02_2.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/目/人型目2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_02_2.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽2_成体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_02_2.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/head_03_0.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/体/人型体3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/body_03_0.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_03_0.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/足/人型足3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_03_0.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/角/人型角3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_03_0.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_03_0.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/目/人型目3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_03_0.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽3_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_03_0.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/head_03_1.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/体/人型体3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/body_03_1.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_03_1.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/足/人型足3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_03_1.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/角/人型角3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_03_1.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_03_1.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/目/人型目3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_03_1.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽3_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_03_1.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/head_03_2.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/体/人型体3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/body_03_2.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_03_2.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/足/人型足3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_03_2.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/角/人型角3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_03_2.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_03_2.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/目/人型目3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_03_2.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽3_成体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_03_2.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/head_04_0.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/体/人型体4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/body_04_0.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_04_0.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/足/人型足4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_04_0.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/角/人型角4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_04_0.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_04_0.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/目/人型目4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_04_0.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽4_幼体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_04_0.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/head_04_1.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/体/人型体4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/body_04_1.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_04_1.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/足/人型足4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_04_1.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/角/人型角4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_04_1.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_04_1.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/目/人型目4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_04_1.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽4_中間体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_04_1.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/人型/頭/人型頭4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/head_04_2.part",
+    "type": 4,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/体/人型体4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/body_04_2.part",
+    "type": 4,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/腕/人型腕4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/arms_04_2.part",
+    "type": 4,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/足/人型足4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/legs_04_2.part",
+    "type": 4,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/角/人型角4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/horns_04_2.part",
+    "type": 4,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/しっぽ/人型しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/tail_04_2.part",
+    "type": 4,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/目/人型目4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/eyes_04_2.part",
+    "type": 4,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/人型/羽/人型羽4_成体.png",
+    "runtime": "assets/modular_v1/humanoid/wings_04_2.part",
+    "type": 4,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭1_幼体.png",
+    "runtime": "assets/modular_v1/plant/head_01_0.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/体/植物体1_幼体.png",
+    "runtime": "assets/modular_v1/plant/body_01_0.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕1_幼体.png",
+    "runtime": "assets/modular_v1/plant/arms_01_0.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/足/植物足1_幼体.png",
+    "runtime": "assets/modular_v1/plant/legs_01_0.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/角/植物角1_幼体.png",
+    "runtime": "assets/modular_v1/plant/horns_01_0.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ1_幼体.png",
+    "runtime": "assets/modular_v1/plant/tail_01_0.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/目/植物目1_幼体.png",
+    "runtime": "assets/modular_v1/plant/eyes_01_0.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽1_幼体.png",
+    "runtime": "assets/modular_v1/plant/wings_01_0.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭1_中間体.png",
+    "runtime": "assets/modular_v1/plant/head_01_1.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/体/植物体1_中間体.png",
+    "runtime": "assets/modular_v1/plant/body_01_1.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕1_中間体.png",
+    "runtime": "assets/modular_v1/plant/arms_01_1.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/足/植物足1_中間体.png",
+    "runtime": "assets/modular_v1/plant/legs_01_1.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/角/植物角1_中間体.png",
+    "runtime": "assets/modular_v1/plant/horns_01_1.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ1_中間体.png",
+    "runtime": "assets/modular_v1/plant/tail_01_1.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/目/植物目1_中間体.png",
+    "runtime": "assets/modular_v1/plant/eyes_01_1.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽1_中間体.png",
+    "runtime": "assets/modular_v1/plant/wings_01_1.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭1_成体.png",
+    "runtime": "assets/modular_v1/plant/head_01_2.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/体/植物体1_成体.png",
+    "runtime": "assets/modular_v1/plant/body_01_2.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕1_成体.png",
+    "runtime": "assets/modular_v1/plant/arms_01_2.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/足/植物足1_成体.png",
+    "runtime": "assets/modular_v1/plant/legs_01_2.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/角/植物角1_成体.png",
+    "runtime": "assets/modular_v1/plant/horns_01_2.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ1_成体.png",
+    "runtime": "assets/modular_v1/plant/tail_01_2.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/目/植物目1_成体.png",
+    "runtime": "assets/modular_v1/plant/eyes_01_2.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽1_成体.png",
+    "runtime": "assets/modular_v1/plant/wings_01_2.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 1,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭2_幼体.png",
+    "runtime": "assets/modular_v1/plant/head_02_0.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/体/植物体2_幼体.png",
+    "runtime": "assets/modular_v1/plant/body_02_0.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕2_幼体.png",
+    "runtime": "assets/modular_v1/plant/arms_02_0.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/足/植物足2_幼体.png",
+    "runtime": "assets/modular_v1/plant/legs_02_0.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/角/植物角2_幼体.png",
+    "runtime": "assets/modular_v1/plant/horns_02_0.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ2_幼体.png",
+    "runtime": "assets/modular_v1/plant/tail_02_0.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/目/植物目2_幼体.png",
+    "runtime": "assets/modular_v1/plant/eyes_02_0.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽2_幼体.png",
+    "runtime": "assets/modular_v1/plant/wings_02_0.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭2_中間体.png",
+    "runtime": "assets/modular_v1/plant/head_02_1.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/体/植物体2_中間体.png",
+    "runtime": "assets/modular_v1/plant/body_02_1.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕2_中間体.png",
+    "runtime": "assets/modular_v1/plant/arms_02_1.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/足/植物足2_中間体.png",
+    "runtime": "assets/modular_v1/plant/legs_02_1.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/角/植物角2_中間体.png",
+    "runtime": "assets/modular_v1/plant/horns_02_1.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ2_中間体.png",
+    "runtime": "assets/modular_v1/plant/tail_02_1.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/目/植物目2_中間体.png",
+    "runtime": "assets/modular_v1/plant/eyes_02_1.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽2_中間体.png",
+    "runtime": "assets/modular_v1/plant/wings_02_1.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭2_成体.png",
+    "runtime": "assets/modular_v1/plant/head_02_2.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/体/植物体2_成体.png",
+    "runtime": "assets/modular_v1/plant/body_02_2.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕2_成体.png",
+    "runtime": "assets/modular_v1/plant/arms_02_2.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/足/植物足2_成体.png",
+    "runtime": "assets/modular_v1/plant/legs_02_2.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/角/植物角2_成体.png",
+    "runtime": "assets/modular_v1/plant/horns_02_2.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ2_成体.png",
+    "runtime": "assets/modular_v1/plant/tail_02_2.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/目/植物目2_成体.png",
+    "runtime": "assets/modular_v1/plant/eyes_02_2.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽2_成体.png",
+    "runtime": "assets/modular_v1/plant/wings_02_2.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 2,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭3_幼体.png",
+    "runtime": "assets/modular_v1/plant/head_03_0.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/体/植物体3_幼体.png",
+    "runtime": "assets/modular_v1/plant/body_03_0.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕3_幼体.png",
+    "runtime": "assets/modular_v1/plant/arms_03_0.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/足/植物足3_幼体.png",
+    "runtime": "assets/modular_v1/plant/legs_03_0.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/角/植物角3_幼体.png",
+    "runtime": "assets/modular_v1/plant/horns_03_0.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ3_幼体.png",
+    "runtime": "assets/modular_v1/plant/tail_03_0.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/目/植物目3_幼体.png",
+    "runtime": "assets/modular_v1/plant/eyes_03_0.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽3_幼体.png",
+    "runtime": "assets/modular_v1/plant/wings_03_0.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭3_中間体.png",
+    "runtime": "assets/modular_v1/plant/head_03_1.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/体/植物体3_中間体.png",
+    "runtime": "assets/modular_v1/plant/body_03_1.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕3_中間体.png",
+    "runtime": "assets/modular_v1/plant/arms_03_1.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/足/植物足3_中間体.png",
+    "runtime": "assets/modular_v1/plant/legs_03_1.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/角/植物角3_中間体.png",
+    "runtime": "assets/modular_v1/plant/horns_03_1.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ3_中間体.png",
+    "runtime": "assets/modular_v1/plant/tail_03_1.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/目/植物目3_中間体.png",
+    "runtime": "assets/modular_v1/plant/eyes_03_1.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽3_中間体.png",
+    "runtime": "assets/modular_v1/plant/wings_03_1.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭3_成体.png",
+    "runtime": "assets/modular_v1/plant/head_03_2.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/体/植物体3_成体.png",
+    "runtime": "assets/modular_v1/plant/body_03_2.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕3_成体.png",
+    "runtime": "assets/modular_v1/plant/arms_03_2.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/足/植物足3_成体.png",
+    "runtime": "assets/modular_v1/plant/legs_03_2.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/角/植物角3_成体.png",
+    "runtime": "assets/modular_v1/plant/horns_03_2.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ3_成体.png",
+    "runtime": "assets/modular_v1/plant/tail_03_2.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/目/植物目3_成体.png",
+    "runtime": "assets/modular_v1/plant/eyes_03_2.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽3_成体.png",
+    "runtime": "assets/modular_v1/plant/wings_03_2.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 3,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭4_幼体.png",
+    "runtime": "assets/modular_v1/plant/head_04_0.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/体/植物体4_幼体.png",
+    "runtime": "assets/modular_v1/plant/body_04_0.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕4_幼体.png",
+    "runtime": "assets/modular_v1/plant/arms_04_0.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/足/植物足4_幼体.png",
+    "runtime": "assets/modular_v1/plant/legs_04_0.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/角/植物角4_幼体.png",
+    "runtime": "assets/modular_v1/plant/horns_04_0.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ4_幼体.png",
+    "runtime": "assets/modular_v1/plant/tail_04_0.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/目/植物目4_幼体.png",
+    "runtime": "assets/modular_v1/plant/eyes_04_0.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽4_幼体.png",
+    "runtime": "assets/modular_v1/plant/wings_04_0.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 0
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭4_中間体.png",
+    "runtime": "assets/modular_v1/plant/head_04_1.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/体/植物体4_中間体.png",
+    "runtime": "assets/modular_v1/plant/body_04_1.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕4_中間体.png",
+    "runtime": "assets/modular_v1/plant/arms_04_1.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/足/植物足4_中間体.png",
+    "runtime": "assets/modular_v1/plant/legs_04_1.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/角/植物角4_中間体.png",
+    "runtime": "assets/modular_v1/plant/horns_04_1.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ4_中間体.png",
+    "runtime": "assets/modular_v1/plant/tail_04_1.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/目/植物目4_中間体.png",
+    "runtime": "assets/modular_v1/plant/eyes_04_1.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽4_中間体.png",
+    "runtime": "assets/modular_v1/plant/wings_04_1.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 1
+  },
+  {
+    "png": "art/parts/植物/頭/植物頭4_成体.png",
+    "runtime": "assets/modular_v1/plant/head_04_2.part",
+    "type": 5,
+    "slot": "head",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/体/植物体4_成体.png",
+    "runtime": "assets/modular_v1/plant/body_04_2.part",
+    "type": 5,
+    "slot": "body",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/腕/植物腕4_成体.png",
+    "runtime": "assets/modular_v1/plant/arms_04_2.part",
+    "type": 5,
+    "slot": "arms",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/足/植物足4_成体.png",
+    "runtime": "assets/modular_v1/plant/legs_04_2.part",
+    "type": 5,
+    "slot": "legs",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/角/植物角4_成体.png",
+    "runtime": "assets/modular_v1/plant/horns_04_2.part",
+    "type": 5,
+    "slot": "horns",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/しっぽ/植物しっぽ4_成体.png",
+    "runtime": "assets/modular_v1/plant/tail_04_2.part",
+    "type": 5,
+    "slot": "tail",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/目/植物目4_成体.png",
+    "runtime": "assets/modular_v1/plant/eyes_04_2.part",
+    "type": 5,
+    "slot": "eyes",
+    "variant": 4,
+    "stage": 2
+  },
+  {
+    "png": "art/parts/植物/羽/植物羽4_成体.png",
+    "runtime": "assets/modular_v1/plant/wings_04_2.part",
+    "type": 5,
+    "slot": "wings",
+    "variant": 4,
+    "stage": 2
+  }
+]
