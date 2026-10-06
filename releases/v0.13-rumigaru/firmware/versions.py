@@ -1,0 +1,8 @@
+"""Single source of truth for Radio Roam data and protocol versions."""
+
+SAVE_SCHEMA_VERSION = 6
+GENE_SCHEMA_VERSION = 2
+ASSET_CATALOG_VERSION = 5
+PUBLIC_CATALOG_VERSION = 4
+IDENTITY_HASH_VERSION = 2
+SUPPORTED_GENE_SCHEMAS = (1, 2)

@@ -1,0 +1,16 @@
+{
+  "size": [
+    10,
+    5
+  ],
+  "origin": [
+    25,
+    43
+  ],
+  "pivot": [
+    28,
+    43
+  ],
+  "sockets": {},
+  "native_rig": "fish_v2"
+}

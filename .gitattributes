@@ -1,0 +1,6 @@
+* text=auto
+*.part binary
+*.png binary
+*.rgb binary
+*.idx binary
+*.cat binary

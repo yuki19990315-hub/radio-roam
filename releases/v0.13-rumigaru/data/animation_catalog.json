@@ -1,0 +1,34 @@
+{
+  "catalog_version": 4,
+  "status": "v07_exact_modular_runtime",
+  "canvas": {"width": 64, "height": 64, "origin": "top_left", "ground_y": 60},
+  "render": {
+    "device_scale": 2,
+    "filter": "nearest",
+    "transparent_index": 0,
+    "semantic_colours": 8,
+    "palettes": 16,
+    "runtime_part_scaling": false
+  },
+  "assets": {
+    "pixels": "firmware/assets/parts.idx",
+    "binary_catalog": "firmware/assets/parts.cat",
+    "review_catalog": "firmware/assets/parts.json",
+    "entries": 2304,
+    "formula": "6 types * 16 values * 3 stages * 8 parts",
+    "runtime_loading": "seek and read the eight active crops, then cache the composed sprite"
+  },
+  "layer_order": ["wings", "tail", "legs", "body", "arms", "head", "eyes", "horns"],
+  "evolution_stages": ["juvenile", "middle", "adult"],
+  "pose_frames": [
+    {"id": 0, "name": "idle"},
+    {"id": 1, "name": "breathe"},
+    {"id": 2, "name": "blink"},
+    {"id": 3, "name": "rear_parts_bob"},
+    {"id": 4, "name": "attack"},
+    {"id": 5, "name": "hurt"},
+    {"id": 6, "name": "happy_or_caught"},
+    {"id": 7, "name": "sleep"}
+  ],
+  "scan_effect": {"separate_overlay": true, "does_not_replace_character": true}
+}

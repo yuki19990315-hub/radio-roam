@@ -1,0 +1,16 @@
+{
+  "size": [
+    10,
+    15
+  ],
+  "origin": [
+    7,
+    23
+  ],
+  "pivot": [
+    18,
+    35
+  ],
+  "sockets": {},
+  "native_rig": "beast_v2"
+}
